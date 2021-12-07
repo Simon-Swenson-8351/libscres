@@ -1,2 +1,2 @@
-# libscgrp
-A library for reading StarCraft .grp files.
+# libscres
+A library for reading StarCraft resource files.
